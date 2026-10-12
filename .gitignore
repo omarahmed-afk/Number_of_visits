@@ -1,0 +1,14 @@
+local_settings.json
+.env
+.env.*
+!.env.example
+*.xlsx
+*.xls
+*.csv
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
