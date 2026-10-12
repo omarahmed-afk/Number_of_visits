@@ -1,4 +1,4 @@
-# Chart scraping
+# Number_of_visits
 
 Python script that collects WebPT schedule counts and writes an Excel report.
 
